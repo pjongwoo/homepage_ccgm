@@ -138,32 +138,32 @@
 
 <div class="h_container">
     <div class="row pt20">
-        <div id="carouselExampleIndicators" class="carousel slide mb30" data-ride="carousel">
-            <ol class="carousel-indicators">
-                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-            </ol>
-            <div class="carousel-inner">
-                <div class="carousel-item active">
-                    <img class="d-block w-100" src="/resources/img/contents/slide1.png" alt="First slide" style="width:1200px !important;">
-                </div>
-                <div class="carousel-item">
-                    <img class="d-block w-100" src="/resources/img/contents/slide2.png" alt="Second slide" style="width:1200px !important;;">
-                </div>
-                <div class="carousel-item">
-                    <img class="d-block w-100" src="/resources/img/contents/slide3.png" alt="Third slide" style="width:1200px !important;;">
-                </div>
-            </div>
-            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
-            </a>
-            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
-            </a>
-        </div>
+        <%--<div id="carouselExampleIndicators" class="carousel slide mb30" data-ride="carousel">--%>
+            <%--<ol class="carousel-indicators">--%>
+                <%--<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>--%>
+                <%--<li data-target="#carouselExampleIndicators" data-slide-to="1"></li>--%>
+                <%--<li data-target="#carouselExampleIndicators" data-slide-to="2"></li>--%>
+            <%--</ol>--%>
+            <%--<div class="carousel-inner">--%>
+                <%--<div class="carousel-item active">--%>
+                    <%--<img class="d-block w-100" src="/resources/img/contents/slide1.png" alt="First slide" style="width:1200px !important;">--%>
+                <%--</div>--%>
+                <%--<div class="carousel-item">--%>
+                    <%--<img class="d-block w-100" src="/resources/img/contents/slide2.png" alt="Second slide" style="width:1200px !important;;">--%>
+                <%--</div>--%>
+                <%--<div class="carousel-item">--%>
+                    <%--<img class="d-block w-100" src="/resources/img/contents/slide3.png" alt="Third slide" style="width:1200px !important;;">--%>
+                <%--</div>--%>
+            <%--</div>--%>
+            <%--<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">--%>
+                <%--<span class="carousel-control-prev-icon" aria-hidden="true"></span>--%>
+                <%--<span class="sr-only">Previous</span>--%>
+            <%--</a>--%>
+            <%--<a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">--%>
+                <%--<span class="carousel-control-next-icon" aria-hidden="true"></span>--%>
+                <%--<span class="sr-only">Next</span>--%>
+            <%--</a>--%>
+        <%--</div>--%>
 
         <nav class="col-2 bg-faded sidebar">
             <ul class="nav nav-pills flex-column">
