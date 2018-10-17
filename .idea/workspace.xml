@@ -35,6 +35,7 @@
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path=".idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -302,6 +303,8 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -494,7 +497,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539750758730</updated>
-      <workItem from="1539750761546" duration="3465000" />
+      <workItem from="1539750761546" duration="3566000" />
     </task>
     <task id="LOCAL-00001" summary="테스트">
       <created>1539754164793</created>
@@ -503,11 +506,18 @@
       <option name="project" value="LOCAL" />
       <updated>1539754164793</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="테스트2">
+      <created>1539754239838</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1539754239838</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3465000" />
+    <option name="totallyTimeSpent" value="3566000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
@@ -553,7 +563,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="테스트" />
-    <option name="LAST_COMMIT_MESSAGE" value="테스트" />
+    <MESSAGE value="테스트2" />
+    <option name="LAST_COMMIT_MESSAGE" value="테스트2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -714,11 +725,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Web|homepage_ccgm</last-edited>
+          <last-edited>homepage_ccgm</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
