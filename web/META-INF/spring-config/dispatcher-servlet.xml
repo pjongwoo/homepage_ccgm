@@ -22,4 +22,6 @@
     <!--기본패키지 설정-->
     <context:component-scan base-package="kr.or.ccgm.controller"></context:component-scan>
 
+    <mvc:resources mapping="/favicon.ico" location="/favicon.ico" />
+
 </beans>
