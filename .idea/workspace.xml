@@ -7,89 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31ebbe30-7293-4b66-823c-ddef6280363c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/homepage_ccgm_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_15.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_6_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_6_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_18_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_18_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_18_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_18_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_18_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_18_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_18_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Spring_4_3_18_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Spring_MVC_4_3_18_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/homepage_ccgm.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/aopalliance-1.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/commons-logging-1.2.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/spring-aop-4.3.18.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/spring-aspects-4.3.18.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/spring-beans-4.3.18.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/spring-context-4.3.18.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/spring-context-support-4.3.18.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/spring-core-4.3.18.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/spring-expression-4.3.18.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/spring-instrument-4.3.18.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/spring-instrument-tomcat-4.3.18.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/spring-jdbc-4.3.18.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/spring-jms-4.3.18.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/spring-messaging-4.3.18.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/spring-orm-4.3.18.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/spring-oxm-4.3.18.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/spring-test-4.3.18.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/spring-tx-4.3.18.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/spring-web-4.3.18.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/spring-webmvc-4.3.18.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/spring-webmvc-portlet-4.3.18.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/spring-websocket-4.3.18.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/homepage_ccgm_war_exploded/META-INF/MANIFEST.MF" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/homepage_ccgm_war_exploded/WEB-INF/classes/Controller/controller.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/homepage_ccgm_war_exploded/WEB-INF/dispatcher-servlet.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/homepage_ccgm_war_exploded/WEB-INF/lib/aopalliance-1.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/homepage_ccgm_war_exploded/WEB-INF/lib/commons-logging-1.2.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/homepage_ccgm_war_exploded/WEB-INF/lib/spring-aop-4.3.18.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/homepage_ccgm_war_exploded/WEB-INF/lib/spring-aspects-4.3.18.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/homepage_ccgm_war_exploded/WEB-INF/lib/spring-beans-4.3.18.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/homepage_ccgm_war_exploded/WEB-INF/lib/spring-context-4.3.18.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/homepage_ccgm_war_exploded/WEB-INF/lib/spring-context-support-4.3.18.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/homepage_ccgm_war_exploded/WEB-INF/lib/spring-core-4.3.18.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/homepage_ccgm_war_exploded/WEB-INF/lib/spring-expression-4.3.18.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/homepage_ccgm_war_exploded/WEB-INF/lib/spring-instrument-4.3.18.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/homepage_ccgm_war_exploded/WEB-INF/lib/spring-instrument-tomcat-4.3.18.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/homepage_ccgm_war_exploded/WEB-INF/lib/spring-jdbc-4.3.18.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/homepage_ccgm_war_exploded/WEB-INF/lib/spring-jms-4.3.18.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/homepage_ccgm_war_exploded/WEB-INF/lib/spring-messaging-4.3.18.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/homepage_ccgm_war_exploded/WEB-INF/lib/spring-orm-4.3.18.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/homepage_ccgm_war_exploded/WEB-INF/lib/spring-oxm-4.3.18.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/homepage_ccgm_war_exploded/WEB-INF/lib/spring-test-4.3.18.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/homepage_ccgm_war_exploded/WEB-INF/lib/spring-tx-4.3.18.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/homepage_ccgm_war_exploded/WEB-INF/lib/spring-web-4.3.18.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/homepage_ccgm_war_exploded/WEB-INF/lib/spring-webmvc-4.3.18.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/homepage_ccgm_war_exploded/WEB-INF/lib/spring-webmvc-portlet-4.3.18.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/homepage_ccgm_war_exploded/WEB-INF/lib/spring-websocket-4.3.18.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/homepage_ccgm_war_exploded/WEB-INF/web.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/homepage_ccgm_war_exploded/index.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Controller/controller.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/spring-config/applicationContext.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/spring-config/dispatcher-servlet.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/spring-config/log4j.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -125,8 +43,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            <state relative-caret-position="57">
+              <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -472,12 +390,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539750758730</updated>
-      <workItem from="1539750761546" duration="2007000" />
+      <workItem from="1539750761546" duration="2306000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2007000" />
+    <option name="totallyTimeSpent" value="2306000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
@@ -585,8 +503,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        <state relative-caret-position="57">
+          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
           <folding />
         </state>
       </provider>
