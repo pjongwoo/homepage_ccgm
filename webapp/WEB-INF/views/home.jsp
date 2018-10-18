@@ -38,7 +38,7 @@
 <nav class="navbar navbar-toggleable scm-navbar">
     <div class="h_container gnb row">
         <div class="logo col">
-            <a class="navbar-brand" href="/">{{appTitle}}</a>
+            <a class="navbar-brand" href="/">${test}</a>
         </div>
         <div class="gnb_bg col">
             <h2>메인메뉴</h2>
