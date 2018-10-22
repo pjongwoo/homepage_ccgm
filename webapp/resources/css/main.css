@@ -3,6 +3,7 @@
     padding-bottom: 57px;
 }
 
+.content{position:relative;}
 .content > img{width: 100%; height: 150px;}
 .content > .content_header{position: absolute; top:80px; left:100px; font-weight: 600;}
 .content > .content_header > h4{font-weight: 600;}
@@ -46,7 +47,7 @@
 .navbar{padding:0;}
 .logo{position: absolute; top:0; left:50%; margin-left: -595px; text-align: left; width: 200px; height: 90px; line-height: 90px; z-index: 1;}
 .gnb{padding: 0 0 0 200px; height: 90px; margin: 0 auto;}
-.gnb_bg{display:inline-block; width: 100%;}
+.gnb_bg{display:inline-block; width: 1000px; float:right;}
 .gnb_bg > h2 {font-size:0; line-height: 0; position: absolute; overflow: hidden;}
 ul.gnb_ul{list-style: none;}
 ul.gnb_ul > li.gnb_li{display: list-item; float: left; width: 16.6%; cursor:pointer;padding:33px 0; text-align: center; font-size:17px; font-weight: 400;}
@@ -66,6 +67,7 @@ ul.gnb_ul > li.gnb_li:HOVER{background-color: #bb5588; color: #fff;}
 }
 
 .h_container{width: 1200px; margin:0 auto; padding: 0px; position: relative;}
+#myCarousel .item > img{width:1200px;}
 
 .mt10{margin-top:10px !important;}
 .mt20{margin-top:20px !important;}

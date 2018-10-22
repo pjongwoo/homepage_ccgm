@@ -11,7 +11,7 @@ import java.util.Map;
 @Controller
 public class HomeController {
 
-    @RequestMapping(value = "/view/home")
+    @RequestMapping(value = "/home")
     public String home(Model model){
         model.addAttribute("test","122222");
         return "home";
